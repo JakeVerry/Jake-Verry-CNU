@@ -1,4 +1,4 @@
-# My Experience Using Oxygen XML
+# My Experience Using Text Encoding Initiative (TEI)
 
 Our class was tasked with coding _Dracula’s Guest And Other Weird Stories_ by Bram Stoker using the Text Encoding Initiative (TEI). _Dracula’s Guest_ is a short story published in 1914 by Florence Stoker, wife of Bram Stoker, after his antecedent death in 1912. This short story is supposedly an original precursor to _Dracula_ that was excluded by Stoker in his final publishment. While not explicitly naming the main character, it is implied that Johnathan Harker is the main protagonist. For this assignment we used Oxygen, an eXtensive Markup Language (XML) editor, to transcribe sections of the text.
 
